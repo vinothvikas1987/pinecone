@@ -1,0 +1,1 @@
+With the advent of NLP, database has found a new avatar, Vector databases of the embeddings of words can be stored and queried using frameworks like pinecone. Similarity searches provide us with great results. This is a code to make tokenize,embed and upload into pinecone
